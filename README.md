@@ -30,3 +30,6 @@ Or, visit https://duckdb.org/#quickinstall
 
 Go to the Kaggle website and sign up if you haven't done that before. Then, download the dataset https://www.kaggle.com/datasets/freitasdaniel/duckdb-training-rte-2023?select=olist_orders_dataset.parquet
 
+### Further references
+
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
